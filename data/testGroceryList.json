@@ -1,0 +1,14 @@
+{
+  "Grocery List" : [
+    {
+      "name" : "blueberry",
+      "servings" : "23",
+      "costs" : "11.87"
+    },
+    {
+      "name" : "oats",
+      "servings" : "16",
+      "costs" : "3.17"
+    }
+  ]
+}

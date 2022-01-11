@@ -1,0 +1,46 @@
+{
+  "Week": [
+    {
+      "Day" : "Monday",
+      "Breakfast":"cereal",
+      "Lunch": "apples",
+      "Dinner": "pancake"
+    },
+    {
+      "Day" : "Tuesday",
+      "Breakfast":"pancake",
+      "Lunch": "pizza",
+      "Dinner": "salad"
+    },
+    {
+      "Day" : "Wednesday",
+      "Breakfast":"oatmeal",
+      "Lunch": "yoghurt",
+      "Dinner": "spaghetti"
+    },
+    {
+      "Day" : "Thursday",
+      "Breakfast":"yoghurt",
+      "Lunch": "fried rice",
+      "Dinner": "spaghetti"
+    },
+    {
+      "Day" : "Friday",
+      "Breakfast":"eggs and bacon",
+      "Lunch": "salad",
+      "Dinner": ""
+    },
+    {
+      "Day" : "Saturday",
+      "Breakfast":"oatmeal",
+      "Lunch": "baked salmon",
+      "Dinner": "french toast"
+    },
+    {
+      "Day" : "Sunday",
+      "Breakfast":"cereal",
+      "Lunch": "tomato soup",
+      "Dinner": "baked chicken"
+    }
+  ]
+}
